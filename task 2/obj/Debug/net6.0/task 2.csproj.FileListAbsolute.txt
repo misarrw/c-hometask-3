@@ -1,0 +1,15 @@
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.csproj.AssemblyReference.cache
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.AssemblyInfoInputs.cache
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.AssemblyInfo.cs
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.csproj.CoreCompileInputs.cache
+/Users/sofia/Desktop/c# hometask 3/task 2/bin/Debug/net6.0/task 2
+/Users/sofia/Desktop/c# hometask 3/task 2/bin/Debug/net6.0/task 2.deps.json
+/Users/sofia/Desktop/c# hometask 3/task 2/bin/Debug/net6.0/task 2.runtimeconfig.json
+/Users/sofia/Desktop/c# hometask 3/task 2/bin/Debug/net6.0/task 2.dll
+/Users/sofia/Desktop/c# hometask 3/task 2/bin/Debug/net6.0/task 2.pdb
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.dll
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/refint/task 2.dll
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.pdb
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/task 2.genruntimeconfig.cache
+/Users/sofia/Desktop/c# hometask 3/task 2/obj/Debug/net6.0/ref/task 2.dll
